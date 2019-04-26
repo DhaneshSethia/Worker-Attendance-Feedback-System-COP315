@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Feedback System</string>
+    <string name="submit">Submit</string>
+    <string name="msg_token_fmt">Token value%s</string>
+
+    <string-array name="Floor">
+        <item>A_Floor</item>
+        <item>B_Floor</item>
+        <item>C_Floor</item>
+    </string-array>
+    <string-array name="BathroomId">
+        <item>A_long</item>
+        <item>A_perpendicular</item>
+        <item>B_long</item>
+        <item>B_perpendicular</item>
+        <item>C_long</item>
+        <item>C_perpendicular</item>
+    </string-array>
+</resources>
